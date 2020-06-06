@@ -1,3 +1,4 @@
+include "/etc/named/keys/update.key";
 zone "example.com" {
     type master;
     allow-update { key "update"; };
