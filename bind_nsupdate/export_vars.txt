@@ -1,0 +1,3 @@
+export NSUPDATE_SERVER="dns.example.com"
+export NSUPDATE_KEY="/path/to/your/nsupdate.key"
+export NSUPDATE_ZONE="example.com"
